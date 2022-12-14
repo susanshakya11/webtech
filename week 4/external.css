@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400;1,500&display=swap');
+h1{
+    background-color: aqua;
+    font: 60px;
+    color: black;
+    font-family: 'Playfair Display', serif;
+}
+p{
+    background-color: aqua;
+    font: 60px;
+    color: black;
+}
